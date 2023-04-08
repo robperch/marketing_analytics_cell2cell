@@ -53,6 +53,11 @@ from .excel_utils import (
     excel_writer,
 )
 
+## MBA 263 utils
+from .mba263 import (
+    logit_reg,
+)
+
 
 
 
