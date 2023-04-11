@@ -56,6 +56,7 @@ from .excel_utils import (
 ## MBA 263 utils
 from .mba263 import (
     logit_reg,
+    odds_ratios,
 )
 
 
