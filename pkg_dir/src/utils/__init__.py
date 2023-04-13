@@ -60,6 +60,7 @@ from .mba263 import (
     ntile,
     pwcorr,
     lift,
+    lift,
 )
 
 
